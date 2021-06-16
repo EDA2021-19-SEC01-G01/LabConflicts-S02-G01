@@ -28,7 +28,7 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
-Est-1: Santiago Arciniegas Castro
+Est-1: Santiago Arciniegas Castro (s.arciniegas@uniandes.edu.co) - 202014994
 Est-2: Maria Camila Luna Velasco
 
 Hola :)
