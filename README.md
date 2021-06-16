@@ -29,4 +29,4 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 
 Est-1: Santiago Arciniegas Castro - s.arciniegas@uniandes.edu.co - 202014994 
-Est-2: Maria Camila Luna Velasco - 201920993 - m.lunav@uniades.edu.co
+Est-2: Maria Camila Luna Velasco - 201920993 - m.lunav@uniandes.edu.co
